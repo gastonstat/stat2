@@ -4,7 +4,7 @@
 
 - __Note__: This course is not very mathematical; the emphasis of the course is critical thinking about quantitative evidence. Neither linear algebra nor calculus is required, although some concepts seem more natural if you've taken these courses. You do need to be comfortable with math at the level of high-school algebra (e.g., the equation of a straight line, plotting points, taking powers and roots, percentages).
 
-- __Instructor__: Gaston Sanchez
+- __Instructor__: [Gaston Sanchez](https://www.gastonsanchez.com)
 
 - __Lecture__: 3 hours of lecture per week
 
