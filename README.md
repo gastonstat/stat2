@@ -16,8 +16,11 @@
 
 - __Textbook__: Statistics, 4th edition by Freedman, Pisani, and Purves (FPP)
 
+- __LMS__: the specific learning resources of a given semester are shared in the Learning Management Sysment (LMS) approved by Campus authorities (e.g. bCourses, Canvas)
+
 
 -----
+
 
 ## 1.1 What is Data?
 
